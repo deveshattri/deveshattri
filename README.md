@@ -1,14 +1,20 @@
 # Hi, I'm Devesh 👋
 
 ## 🚀 About Me
-- 3rd-year CSE student
+- 4th-year CSE student
 - Full-stack web developer
 - Competitive programmer
 
 ## 🛠 Skills
-- JavaScript, React, Node.js, MongoDB
-- HTML, CSS, Tailwind
-- Git & GitHub
+
+### Languages
+C++, Java, Python, JavaScript, SQL, HTML, CSS
+
+### Technologies & Frameworks
+React.js, Node.js, Express.js, MongoDB, Tailwind
+
+### Developer Tools
+MySQL, Git, GitHub
 
 ## 📫 Connect with me
 - LinkedIn: [[Devesh](https://www.linkedin.com/in/devesh-a0b987256/)]
