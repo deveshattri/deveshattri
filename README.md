@@ -11,7 +11,7 @@
 - Git & GitHub
 
 ## 📫 Connect with me
-- LinkedIn: [[Devesh](www.linkedin.com/in/devesh-a0b987256)]
+- LinkedIn: [[Devesh](https://www.linkedin.com/in/devesh-a0b987256/)]
 - LeetCode: [[deveshattri](https://leetcode.com/u/deveshattri/)]
 - CodeForces: [[deveshattri](https://codeforces.com/profile/deveshattri)]
 - CodeChef: [[deveshattri](https://www.codechef.com/users/attridevesh)]
