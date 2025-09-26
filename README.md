@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Devesh 👋
 
-<!--
-**deveshattri/deveshattri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 3rd-year CSE student
+- Full-stack web developer
+- Competitive programmer
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- JavaScript, React, Node.js, MongoDB
+- HTML, CSS, Tailwind
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+
+## 📫 Connect with me
+- LinkedIn: [link]
+- Portfolio: [link]
