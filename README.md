@@ -10,9 +10,8 @@
 - HTML, CSS, Tailwind
 - Git & GitHub
 
-## 📂 Projects
-
-
 ## 📫 Connect with me
-- LinkedIn: [link]
-- Portfolio: [link]
+- LinkedIn: [[Devesh](www.linkedin.com/in/devesh-a0b987256)]
+- LeetCode: [[deveshattri](https://leetcode.com/u/deveshattri/)]
+- CodeForces: [[deveshattri](https://codeforces.com/profile/deveshattri)]
+- CodeChef: [[deveshattri](https://www.codechef.com/users/attridevesh)]
