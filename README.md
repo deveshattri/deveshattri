@@ -14,7 +14,7 @@ C++, Java, Python, JavaScript, SQL, HTML, CSS
 React.js, Node.js, Express.js, MongoDB, Tailwind
 
 ### Developer Tools
-MySQL, Git, GitHub
+MySQL, Git, GitHub, VS Code
 
 ## 📫 Connect with Me
 
